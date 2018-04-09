@@ -4,7 +4,7 @@ GitHub Link: https://github.com/CrazyTick/AnagramFinder
 
 The program is already compiled. You can always compile again.
 
-open terminal, go into folder "Tieying Jing", and type in
+open terminal, go into folder "AnagramFinder", and type in
 
 java AnagramFinder
 
